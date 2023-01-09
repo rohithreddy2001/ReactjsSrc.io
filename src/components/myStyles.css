@@ -1,0 +1,38 @@
+.primary {
+    color: rgb(145, 182, 255);
+    background-color: rgb(0, 0, 0);
+    
+}
+
+.font-xl {
+    font-size: 72px;
+}
+
+.font-family {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+label {
+    color:forestgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+input,textarea,option {
+    color: royalblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.formButton {
+    color:rgb(255, 255, 255);
+    background-color: rgb(55, 152, 255);
+}
+ .formButton:hover {
+    background-color: rgb(9, 109, 209);
+ }
+
+ img {
+    height: auto;
+    max-width: 10%;
+ }
